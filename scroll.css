@@ -1,0 +1,33 @@
+
+.company-scroll{
+   display:flex;
+   flex-direction:row; 
+   justify-content: space-around;
+   height:80px;
+   background-color: rgb(222, 250, 250);
+   overflow: hidden;
+}
+.ace-pic{
+    height:60px;
+    width: 120px;
+}
+.bouli-pic{
+    height: 60px;
+    width: 120px;
+}
+.doosan-pic{
+    height: 60px;
+    width: 120px;
+}
+.godrej-pic{
+    height: 60px;
+    width: 120px;
+}
+.toyota-pic{
+    height: 60px;
+    width: 120px;
+}
+.voltas-pic{
+    height: 60px;
+    width: 120px;
+}

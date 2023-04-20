@@ -1,0 +1,196 @@
+
+body{
+    padding-bottom: 1000px;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.header{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    background-color:rgb(242, 242, 242) ;
+    margin-top: 100px;
+    align-items:start;
+    border-bottom: 4px;
+    border-style: solid;
+    border-color: antiquewhite;
+
+}
+.call-head{
+    font-weight:700;
+    height: 35px;
+    width: 35px;
+    
+}
+.mail-head{
+    font-size: larger;
+    font-weight: 700;
+    height:35px;
+    width:35px;
+    margin-left: 250px;
+}
+
+.logo-pic{
+    width:350px;
+    height:100px;
+    margin-left: 300px;
+    margin-right: 500px;
+}
+.call-btn{
+    margin-bottom: 10px;
+    margin-left: 900px;
+}
+
+.call-btn:hover{
+    background-color: green;
+    color: white;
+    
+}
+
+.main-align{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 90px;
+    background-color:rgb(65, 65, 245) ;
+    padding-top: 20px;
+    
+
+    
+}
+.para-1st{
+    font-weight: 600;
+    font-size:xx-large;
+    color: antiquewhite;
+
+    
+}
+.para-2nd{
+    font-weight:600;
+    font-size: xx-large;
+    color: white;
+}
+.para-3rd{
+    font-size:larger;
+    color: antiquewhite;
+}
+
+
+
+button{
+    margin-top: 70px;
+    height: 40px;
+    width:150px;
+    border-radius: 5px;
+}
+.service-btn:hover{
+    background-color: rgb(2, 2, 37);
+    color: whitesmoke;
+}
+.pic-1{
+    height: 500px;
+    width:500px;
+}
+
+.company-scroll{
+    margin-top: 50px;
+    height: 150px;
+    background-color:rgb(241, 166, 191) ;
+}
+.who-line{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+.service-line{
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: xx-large;
+    text-align: center;
+}
+.pic-2{
+    margin-top:50px;
+height:500px;
+width:700px;
+}
+.flex-body2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.flex-para{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.par1-body2{
+margin-bottom: 10px;
+font-size:x-large ;
+}
+.para-sub1{
+font-size: medium;
+margin-bottom: 50px;
+}
+.par2-body2{
+margin-bottom: 10px;
+font-size: x-large;
+}
+.para-sub2{
+font-size: large;
+margin-bottom: 50px;
+}
+.par3-body2{
+    margin-bottom: 10px;
+    font-size: x-large;
+}
+.para-sub3{
+font-size:large;
+}
+.map-class{
+    margin-top: 100px;
+     display: block;
+     margin-left: 300px;
+}
+.vid-class{
+    text-align: center;
+}
+.our-clients{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: underline;
+}
+.forte-pic{
+    height:200px;
+    width:200px;
+}
+.gulf-pic{
+    margin-left: 70px;
+    margin-right: 70px;
+    height:200px;
+    width:200px;
+}
+.methra-pic{
+    height:200px;
+    width:200px;
+}
+.client-flex{
+    margin-top: 50px;
+    display:flex;
+    flex-direction: row;
+    height: 70px;
+    justify-content: space-around;
+}
+.end-div{
+    background-color: orangered;
+    color: white;
+    height: 90px;
+    text-align: center;
+    font-size: larger;
+}

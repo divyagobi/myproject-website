@@ -1,0 +1,42 @@
+.head-2{
+    z-index: 1000px;
+    margin-top: 0px;
+    display: flex;
+
+    align-items:center ;
+    color: brown;
+    background-color:rgb(251, 243, 229);
+    height:80px;
+    justify-content: center;
+
+    justify-content: space-around;
+    font-size: x-large;
+    border-bottom: 2px;
+    border-color: blueviolet;
+    position: fixed;
+    top:0px;
+    right:0px;
+    left:0px;
+}
+.home-fixed:hover{
+    text-decoration: underline;
+}
+.about-fixed:hover{
+    text-decoration: underline;
+}
+.spare-fixed:hover{
+    text-decoration: underline;
+}
+.service-fixed:hover{
+    text-decoration: underline;
+}
+.rental-fixed:hover{
+    text-decoration: underline;
+
+}
+.repair-fixed:hover{
+    text-decoration: underline;
+}
+.contact-fixed:hover{
+    text-decoration:underline ;
+}
